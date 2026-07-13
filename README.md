@@ -7,8 +7,6 @@
 
 I'm a Flutter Developer focused on building cross-platform mobile applications with clean, scalable code. I work extensively with Firebase, REST APIs, and Provider state management to deliver production-ready apps with real-time data sync, secure authentication, and payment integration.
 
----
-
 ### 👨‍💻 About Me
 
 - 🔭 Currently working as a **Flutter Developer** at **Bridgeon Solution LLP** (2025 – Present)
@@ -67,12 +65,12 @@ I'm a Flutter Developer focused on building cross-platform mobile applications w
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=midlaj-kk&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlaj-kk&layout=compact" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=midlaj-kk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=midlaj-kk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midlaj-kk" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=midlaj-kk&theme=tokyonight&hide_border=true&short_numbers=true" />
 </p>
 
 ---
