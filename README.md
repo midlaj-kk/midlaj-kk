@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Muhammed Midlaj KK 👋</h1>
-<h3 align="center">Flutter Developer | Building responsive, high-performance cross-platform apps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter%20Developer-Building%20responsive%2C%20high--performance%20cross--platform%20apps-1a1b26?style=flat&logo=flutter&logoColor=38bdf8&labelColor=16161e" alt="Flutter Developer Badge" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1081de&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Firebase+%7C+REST+API+%7C+State+Management;Building+Real-World+Mobile+Applications" alt="Typing SVG" />
