@@ -72,7 +72,7 @@ I'm a Flutter Developer focused on building cross-platform mobile applications w
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midlajkk04-max" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midlaj-kk" />
 </p>
 
 ---
